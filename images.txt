@@ -2,3 +2,4 @@ nginx
 mysql:8.0.37
 redis:6.2.14
 mariadb:10.1.21
+nacos/nacos-server:v2.4.3
