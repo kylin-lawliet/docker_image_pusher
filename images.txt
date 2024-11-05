@@ -4,3 +4,4 @@ redis:6.2.14
 mariadb:10.1.21
 nacos/nacos-server:v2.4.3
 neo4j:5.24.2-community
+neo4j:4.4.14-community
