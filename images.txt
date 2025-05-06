@@ -1,11 +1,5 @@
-nginx
-mysql:8.0.37
-redis:6.2.14
-mariadb:10.1.21
-nacos/nacos-server:v2.4.3
-neo4j:5.24.2-community
-neo4j:4.4.14-community
-portainer/portainer:1.25.0
-ubuntu:22.04
-jxxghp/moviepilot-v2:2.4.3
+docker.getcollate.io/openmetadata/db:1.7.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.7.0
+docker.getcollate.io/openmetadata/ingestion:1.7.0
 
