@@ -1,2 +1,1 @@
-dreamacro/clash:latest
-haishanh/yacd
+centralx/clash:1.18.0
