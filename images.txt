@@ -1,1 +1,1 @@
-savextube/savextube:v0.4-dev
+jvmilazz0/kavita:nightly-0.8.7.9
