@@ -1,1 +1,2 @@
-messense/aliyundrive-webdav
+xhofe/alist:v3.50.0
+savextube/savextube:v0.4-dev7
