@@ -1,1 +1,5 @@
-nextcloud
+postgres:17
+
+# latest 版本镜像一直保留，每次执行进行拉取
+cloudreve/cloudreve:latest
+redis:latest
